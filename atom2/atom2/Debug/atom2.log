@@ -1,0 +1,3 @@
+﻿  atom.cpp
+C:\Users\Utkarsh Pathak\Desktop\opengl\atom2\atom2\atom.cpp(168,23): warning C4018: '<=': signed/unsigned mismatch
+  atom2.vcxproj -> C:\Users\Utkarsh Pathak\Desktop\opengl\atom2\Debug\atom2.exe
